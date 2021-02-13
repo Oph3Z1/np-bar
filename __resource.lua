@@ -1,3 +1,7 @@
+fx_version 'adamant'
+
+game 'gta5'
+
 client_script "@np-errorlog/client/cl_errorlog.lua"
 
 ui_page 'index.html'
